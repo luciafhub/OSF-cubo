@@ -20,7 +20,7 @@ def cargar_datos_desde_osf(file_id):
 file_ids = {
     "Enfermeras": "osfstorage/6729eeb4b7aee73e2402757d",  # Reemplaza con el file_id real
     "Medidas": "osfstorage/6729eec61bad4ca7a3baa1aa",        # Reemplaza con el file_id real
-    "Pacientes_Enfermeras": "osfstorage/6729eef4c0d109bf15dccd14"  # Reemplaza con el file_id real
+    "Pacientes_Enfermeras": "osfstorage/672a0d0f1728a8447dbaa565"  # Reemplaza con el file_id real
 }
 
 # Cargar cada tabla
